@@ -1,0 +1,6 @@
+#home{
+  background: url(../img/home.png) 100% center no-repeat;
+  background-size: cover;
+  min-height: 790px;
+
+}

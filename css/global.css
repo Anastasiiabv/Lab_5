@@ -1,0 +1,24 @@
+.main-text{
+  color: #ffffff;
+}
+
+.main-text a{
+  color: #ffffff;
+}
+
+.hr-line{
+  width: 5%;
+  color: #555555;
+  height: 2px;
+  background-color:black;
+}
+
+.white-button{
+  background: transparent;
+  border: 2px solid #ffffff;
+}
+
+.picture-size{
+  height:400px;
+  weight:300px;
+}
